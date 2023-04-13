@@ -1,0 +1,6 @@
+# changgou
+代码在master分支
+开源B2C电商项目，前后端分离，本人只实现了后端代码，一些功能接口采用postman进行测试
+父工程下的子工程有oauth鉴权，gateway网关，cannal监控数据库变化，common存储工具，对外提供依赖，fescar分布式事务，eureka注册中心，service微服务，service-api为微服务提供pojo实体类、Feign远程调用、Hystrix熔断器，web应对功能模块需要调用多个微服务的情况
+使用了SpringBoot、SpringCloud、Eureka集群、JJWT库、Canal、BCrypt、snowflake算法、Redis、Fescar等工具
+实现了电商项目特有的秒杀功能
