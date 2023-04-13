@@ -1,0 +1,4 @@
+com\changgou\web\gateway\WebGateWayApplication.class
+com\changgou\web\gateway\filter\AuthFilter.class
+com\changgou\web\gateway\service\AuthService.class
+com\changgou\web\gateway\filter\URLFilter.class

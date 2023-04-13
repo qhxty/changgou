@@ -1,0 +1,7 @@
+com\changgou\seckill\controller\SeckillGoodsController.class
+com\changgou\seckill\task\SeckillGoodsPushTask.class
+com\changgou\seckill\SeckillApplication.class
+com\changgou\seckill\service\impl\SeckillGoodsServiceImpl.class
+com\changgou\seckill\service\SeckillGoodsService.class
+com\changgou\seckill\dao\SeckillMapper.class
+com\changgou\seckill\config\ResourceServerConfig.class

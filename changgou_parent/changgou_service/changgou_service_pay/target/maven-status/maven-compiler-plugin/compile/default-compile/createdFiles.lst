@@ -1,0 +1,7 @@
+com\github\wxpay\sdk\MyConfig$1.class
+com\github\wxpay\sdk\MyConfig.class
+com\changgou\pay\config\RabbitMQConfig.class
+com\changgou\pay\service\impl\WXPayServiceImpl.class
+com\changgou\pay\PayApplication.class
+com\changgou\pay\controller\WXPayController.class
+com\changgou\pay\service\WXPayService.class

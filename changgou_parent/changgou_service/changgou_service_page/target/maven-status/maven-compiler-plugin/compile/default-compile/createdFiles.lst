@@ -1,0 +1,5 @@
+com\changgou\page\service\impl\PageServiceImpl.class
+com\changgou\page\service\PageService.class
+com\changgou\page\config\RabbitMqConfig.class
+com\changgou\page\PageApplication.class
+com\changgou\page\listener\PageListener.class

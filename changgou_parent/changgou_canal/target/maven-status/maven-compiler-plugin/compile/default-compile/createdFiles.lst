@@ -1,0 +1,4 @@
+com\bukaedu\canal\config\RabbitMqConfig.class
+com\bukaedu\canal\listener\BusinessListener.class
+com\bukaedu\canal\CanalApplication.class
+com\bukaedu\canal\listener\SpuListener.class

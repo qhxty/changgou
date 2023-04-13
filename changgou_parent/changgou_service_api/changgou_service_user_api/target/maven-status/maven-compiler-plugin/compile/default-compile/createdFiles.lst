@@ -1,0 +1,8 @@
+com\changgou\user\pojo\Areas.class
+com\changgou\user\pojo\User.class
+com\changgou\user\pojo\Cities.class
+com\changgou\user\feign\UserFeign.class
+com\changgou\user\pojo\PointLog.class
+com\changgou\user\pojo\Provinces.class
+com\changgou\user\feign\AddressFeign.class
+com\changgou\user\pojo\Address.class

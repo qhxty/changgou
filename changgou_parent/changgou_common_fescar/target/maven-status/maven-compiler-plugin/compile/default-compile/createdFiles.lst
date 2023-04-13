@@ -1,0 +1,3 @@
+com\changgou\fescar\filter\FescarRMRequestFilter.class
+com\changgou\fescar\config\FescarAutoConfiguration.class
+com\changgou\fescar\interceptor\FescarRestInterceptor.class
